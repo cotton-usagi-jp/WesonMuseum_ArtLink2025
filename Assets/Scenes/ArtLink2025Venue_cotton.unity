@@ -12464,16 +12464,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 92011111708960393, guid: 147176aa3e1df1149b2a7ca58304114c,
-        type: 3}
-      propertyPath: m_UseGravity
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 92011111708960393, guid: 147176aa3e1df1149b2a7ca58304114c,
-        type: 3}
-      propertyPath: m_IsKinematic
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 313963966988929887, guid: 147176aa3e1df1149b2a7ca58304114c,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -12530,16 +12520,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1102916377043523928, guid: 147176aa3e1df1149b2a7ca58304114c,
         type: 3}
-    - target: {fileID: 1669163174699496438, guid: 147176aa3e1df1149b2a7ca58304114c,
-        type: 3}
-      propertyPath: m_UseGravity
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1669163174699496438, guid: 147176aa3e1df1149b2a7ca58304114c,
-        type: 3}
-      propertyPath: m_IsKinematic
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3309546526501257843, guid: 147176aa3e1df1149b2a7ca58304114c,
         type: 3}
       propertyPath: serializationData.Prefab
@@ -12552,16 +12532,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 3369602893247390166, guid: 147176aa3e1df1149b2a7ca58304114c,
         type: 3}
-    - target: {fileID: 3727832650097864705, guid: 147176aa3e1df1149b2a7ca58304114c,
+    - target: {fileID: 3981572062219277588, guid: 147176aa3e1df1149b2a7ca58304114c,
         type: 3}
-      propertyPath: m_UseGravity
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3727832650097864705, guid: 147176aa3e1df1149b2a7ca58304114c,
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 3981572062219277588, guid: 147176aa3e1df1149b2a7ca58304114c,
         type: 3}
-      propertyPath: m_IsKinematic
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 4828864189160682683, guid: 147176aa3e1df1149b2a7ca58304114c,
         type: 3}
       propertyPath: m_Name
@@ -12573,32 +12549,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 5760356422423568344, guid: 147176aa3e1df1149b2a7ca58304114c,
         type: 3}
-    - target: {fileID: 5970804893326125777, guid: 147176aa3e1df1149b2a7ca58304114c,
-        type: 3}
-      propertyPath: m_UseGravity
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5970804893326125777, guid: 147176aa3e1df1149b2a7ca58304114c,
-        type: 3}
-      propertyPath: m_IsKinematic
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 8607956639872845628, guid: 147176aa3e1df1149b2a7ca58304114c,
         type: 3}
       propertyPath: serializationData.Prefab
       value: 
       objectReference: {fileID: 8607956639872845628, guid: 147176aa3e1df1149b2a7ca58304114c,
         type: 3}
-    - target: {fileID: 9222032394073688726, guid: 147176aa3e1df1149b2a7ca58304114c,
-        type: 3}
-      propertyPath: m_UseGravity
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9222032394073688726, guid: 147176aa3e1df1149b2a7ca58304114c,
-        type: 3}
-      propertyPath: m_IsKinematic
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
